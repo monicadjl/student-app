@@ -1,0 +1,18 @@
+
+* {
+    border: solid 2px teal;
+}
+
+h2 {
+    color: palevioletred;
+    font-style: oblique;
+}
+
+.student-list-heading {
+    color: darkblue;
+    font-style: oblique;
+}
+
+.student-list {
+    list-style-type: square;
+}

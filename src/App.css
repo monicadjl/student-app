@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+#attendance-header {
+  color: pink;
+}
